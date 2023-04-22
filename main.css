@@ -1,0 +1,7 @@
+
+.content {max-width: 800px; border: solid 1px red;}
+
+label, input, textarea {display:block;}
+.cards {list-style: none; padding: 0px 0 0px 10px; margin: 10px 0 }
+.card { padding: 0px 0; margin: 10px 0 }
+.content img {width: 100%; }

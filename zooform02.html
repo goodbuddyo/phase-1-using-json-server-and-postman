@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Zoo 02</title>
+  <meta name="description" content="async js">
+  <!-- remove data.js - will pull data from jason-server db.json -->
+  <!--<script src="src/data.js"></script>-->
+
+  <script defer src="src/zooindex02.js"></script>
+  <link rel="stylesheet" href="./main.css" />
+</head>
+
+<body>
+  <header id="menu">
+    <h1>Welcome to zkpr</h1>
+  </header>
+  <div class="content">
+    <form id="animal-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" />
+      <label for="image_url">Image</label>
+      <input type="text" id="image_url" name="image_url" />
+      <label for="description">Description</label>
+      <textarea id="description" name="description">
+      </textarea>
+      <button type="submit">Adopt Animal</button>
+    </form>
+
+    <ul id="animal-list" class="cards">
+      <!--  Animals here -->
+
+    </ul>
+  </div>
+
+</body>
+<!--<script src="index.js"></script>-->
+console.log()
+
+</html>

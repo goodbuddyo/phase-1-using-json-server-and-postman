@@ -1,0 +1,39 @@
+{
+  "animalData": [
+    {
+      "name": "Pangolin",
+      "imageUrl": "https://i.pinimg.com/originals/bf/ff/93/bfff9395c6ae0d24534f030580924c7e.jpg",
+      "description": "The Pangolin, otherwise knows as the spiney ant eater",
+      "donations": 10,
+      "id": 1
+    },
+    {
+      "name": "Gibbon",
+      "imageUrl": "https://www.publicdomainpictures.net/pictures/70000/velka/gibbon.jpg",
+      "description": "Gibbons communicate by singing",
+      "donations": 0,
+      "id": 2
+    },
+    {
+      "name": "Wombat",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Southern_Hairy-nosed_Wombat.jpg",
+      "description": "The have cube-shaped poop",
+      "donations": 0,
+      "id": 3
+    },
+    {
+      "name": "Emperor penguin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Emperor_Penguins_%2815885611526%29.jpg/454px-Emperor_Penguins_%2815885611526%29.jpg",
+      "description": "Penguins are cool.",
+      "donations": 0,
+      "id": 4
+    },
+    {
+      "name": "Turtle",
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/05/81/75/61/1000_F_581756127_dR1aQV8o74uyM1gCQeGpd5PbxiLv3ka5.jpg",
+      "description": "Turtles are cool too.",
+      "donations": 0,
+      "id": 5
+    }
+  ]
+}
